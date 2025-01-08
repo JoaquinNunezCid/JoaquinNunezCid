@@ -1,12 +1,6 @@
 ## Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Joaquín Núñez Cid
 
 ## Full-Stack MERN & Mobile Apps Developer
-
-<div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=joaquinnunezcid&label=Profile%20views&color=dd6387&style=flat" alt="JoaquinNunezCid" />
-</div>
-
-  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
