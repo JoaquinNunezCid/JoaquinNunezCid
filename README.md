@@ -6,14 +6,6 @@
   <img height="25em"  src="https://komarev.com/ghpvc/?username=joaquinnunezcid&label=Profile%20views&color=dd6387&style=flat" alt="JoaquinNunezCid" />
 </div>
 
-##
-
-<div align="center">
-  <a href="https://github.com/JoaquinNunezCid">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaquinNunezCid&show_icons=true&theme=gruvbox"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinNunezCid&theme=gruvbox"/>
-</div>
-
   ##
   
 <div style="display: inline_block"><br>
