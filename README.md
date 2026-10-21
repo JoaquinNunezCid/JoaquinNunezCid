@@ -9,6 +9,9 @@ I'm interested in software development, mechanical design, CAD, industrial syste
 ### 🛠️ Technologies & Tools
 
 <div align="left">
+  <!-- CAD & Mechanical Design -->
+  <img src="https://img.shields.io/badge/SOLIDWORKS-E31937?style=flat-square&logo=dassaultsystemes&logoColor=white" height="30" alt="SOLIDWORKS" />
+  <img src="https://cdn.simpleicons.org/autocad" height="30" alt="AutoCAD" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
@@ -20,8 +23,6 @@ I'm interested in software development, mechanical design, CAD, industrial syste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
-
-**Engineering tools:** AutoCAD · SolidWorks
 
 ### 🚀 Featured Projects
 
@@ -36,6 +37,9 @@ I'm interested in software development, mechanical design, CAD, industrial syste
 
 - **EEG Technician — Sanatorio Monteverde**  
   Equipment configuration, signal verification, technical troubleshooting, protocol compliance, and digital documentation.
+
+- **PC Building & Maintenance**
+  Hands-on experience in PC assembly and maintenance since 2016, including hardware and software troubleshooting, component selection, system cleaning, performance optimization, and stability improvements.
 
 ### 📫 Connect with Me
 
