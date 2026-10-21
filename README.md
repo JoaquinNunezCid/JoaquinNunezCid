@@ -27,7 +27,7 @@ I'm interested in software development, mechanical design, CAD, industrial syste
 ### 🚀 Featured Projects
 
 - **LifetimeLeveling** — A web application designed to gamify habits and personal goals.
-- **Industrial Plant Layout** — An academic AutoCAD project focused on 2D plant layout, production flow, storage, and circulation planning. [View project](https://github.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout).
+- **Industrial Plant Layout** — An academic AutoCAD project focused on 2D plant layout, production flow, storage, and circulation planning. [View project](https://github.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout) · [View PDF presentation](https://github.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/blob/main/AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf).
 - **Mechanical Design & Assembly** — An academic SolidWorks project involving 3D part modeling, technical drawings, assemblies, and exploded views. [View project](https://github.com/JoaquinNunezCid/SolidWorks-Mechanical-Design).
 
 ### 💼 Professional Experience
