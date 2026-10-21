@@ -28,7 +28,7 @@ I'm interested in software development, mechanical design, CAD, industrial syste
 
 - **LifetimeLeveling** — A web application designed to gamify habits and personal goals.
 - **Industrial Plant Layout** — An academic AutoCAD project focused on 2D plant layout, production flow, storage, and circulation planning.
-- **Mechanical Design & Assembly** — An academic SolidWorks project involving 3D part modeling, technical drawings, assemblies, and exploded views.
+- **Mechanical Design & Assembly** — An academic SolidWorks project involving 3D part modeling, technical drawings, assemblies, and exploded views. [View project](https://github.com/JoaquinNunezCid/SolidWorks-Mechanical-Design).
 
 ### 💼 Professional Experience
 
